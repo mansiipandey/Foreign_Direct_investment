@@ -1,9 +1,9 @@
 Foreign Direct Investment Analysis
 
-Overview
+Overview:
 This repository contains a comprehensive analysis of Foreign Direct Investment (FDI) data. The project aims to explore trends, patterns, and key insights from FDI inflows and outflows across different countries and regions over various time periods.
 
-Table of Contents
+Table of Contents:
 Introduction
 Data Sources
 Installation
@@ -14,7 +14,7 @@ Contributing
 License
 Acknowledgements
 
-Introduction
+Introduction:
 Foreign Direct Investment (FDI) plays a crucial role in the global economy, influencing economic growth, employment, and technological advancement. This project analyzes FDI data to understand its impact and trends, providing valuable insights for policymakers, economists, and investors.
 
 Data Sources
