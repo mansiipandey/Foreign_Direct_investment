@@ -5,6 +5,7 @@ This repository contains a comprehensive analysis of Foreign Direct Investment (
 
 Table of Contents:
 Introduction
+
 Data Sources
 Installation
 Usage
