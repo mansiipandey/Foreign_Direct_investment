@@ -55,17 +55,6 @@ By analyzing FDI data through interactive visualizations and statistical analysi
 🔹Trend forecasting insights
 
 
-## Project Structure
-
-Foreign_Direct_Investment_Analysis/
-│
-├── data/                      # Raw dataset files
-├── notebooks/                 # Jupyter Notebook analysis
-├── visualizations/            # Generated plots and charts
-├── Foreign_direct_investment_analytics.ipynb
-├── requirements.txt           # Required Python libraries
-└── README.md
-
 
 ## Key Insights 
 
@@ -76,7 +65,7 @@ Foreign_Direct_Investment_Analysis/
 
 ## Future Enhancements
 
-🔹Interactive Dashboard using Streamlit or Power BI
+🔹 Interactive Dashboard using Streamlit or Power BI
 🔹 Predictive analysis using Machine Learning
 🔹 Real-time economic data integration
 🔹 Advanced statistical and forecasting models
